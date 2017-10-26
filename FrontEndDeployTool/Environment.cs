@@ -178,7 +178,7 @@ namespace DeployFrontEnd
         }
 
         /*
-         * include \LASCPortal in path name
+         * include \Portal in path name
          * 
          * Physical path =  server + "\" envPrefix  + "\" + folderVersion
          * base href (index.html) = "/" + envPrefix + "/" + appVersion
